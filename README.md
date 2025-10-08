@@ -13,7 +13,7 @@ A console app for downloading administrative boundary data from OpenStreetMap vi
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:albertomario/geojson-boundary-fetcher.git
 cd boundary-downloader
 go build
 ```
