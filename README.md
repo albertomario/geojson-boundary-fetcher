@@ -75,3 +75,7 @@ Example: `geojson/Q218/8/boundary.geojson` (Romania, level 8)
 ---
 
 Made with ❤️ for the mapping community
+
+## License
+
+This project is licensed under the MIT License
